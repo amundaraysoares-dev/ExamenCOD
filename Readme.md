@@ -49,6 +49,9 @@ y por ultimo fusionamos los cambios con mi maquina local usando el git merge a m
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
 - Utiliza pull para descargar los cambios realizados en tu repositorio.
 
+(cambio para prueba de pull)
+
+
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
