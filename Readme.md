@@ -42,7 +42,7 @@ luego de manera opcional  hago un git log main..origin/main para ver que commits
 
 y por ultimo fusionamos los cambios con mi maquina local usando el git merge a mi rama main
 
-![cap_3](foto5.png)
+![cap_5](foto5.png)
 
 ### Apartado 3
 
@@ -55,3 +55,6 @@ y por ultimo fusionamos los cambios con mi maquina local usando el git merge a m
 Pregunta
 - Explica los pasos dados para que el cambio realizado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+una vez hecha la modificacion en github para poder traer esa modificacion a nuestra maquina local tendremos que hacer lo siguiente: utilizar el comando  git pull --rebase que nos permitira traer las modificaciones y cargarlas en la maquina local
+
+![cap_6](foto6.png)
