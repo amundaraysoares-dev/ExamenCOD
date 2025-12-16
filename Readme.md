@@ -23,6 +23,8 @@ respuesta = lo mas importante es ir al apartado de GIT > manage remote y modific
 - Realiza una modificación en el código en la web de tu repositorio en GitHub
 - Utiliza fetch para descargar los cambios realizados en tu repositorio.
 
+(modificacion desde la web de github)
+
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
