@@ -28,6 +28,22 @@ respuesta = lo mas importante es ir al apartado de GIT > manage remote y modific
 Pregunta
 - Explica los pasos para que el código modificado en GitHub, llegue a tu rama principal local. Explícalo con capturas de pantalla.
 
+lo primero fue desde github editar mi readme desde la web usando la herramienta de edicio, en mi caso agrege un pequeño texto
+
+![cap_2](foto2.png)
+
+luego en mi maquina local utilice el comando "git fetch origin" para traer las modificaciones a mi maquina local sin finsionar directamente  ambas versiones 
+
+![cap_3](foto3.png)
+
+luego de manera opcional  hago un git log main..origin/main para ver que commits se hicieron fuera, en este caso fue la modificacion en github
+
+![cap_4](foto4.png)
+
+y por ultimo fusionamos los cambios con mi maquina local usando el git merge a mi rama main
+
+![cap_3](foto5.png)
+
 ### Apartado 3
 
 - Realiza otro cambio desde la web de tu repositorio en GitHub.
