@@ -15,6 +15,7 @@ Pregunta
 - ¿Qué paso es fundamental cuando clonamos un repositorio ajeno para que podamos subir nuestros propios commits? Explícalo y utiliza capturas de pantalla.
 
 respuesta = lo mas importante es ir al apartado de GIT > manage remote y modificar la direccion del repositorio original por la de nuestro propio repositorio, esto nos permitira hacer cambios y subirlos 
+
 ![cap_1](examenCOD1.png)
 
 
